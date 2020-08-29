@@ -8,7 +8,6 @@ DAPT CDMX March 2020
 ## Content
 - [Introduction](#introduction) 
 - [Aproach](#aproach)
-- [Aproach](#aproach)
 - [Challenges](#challenges)
 - [Links](#links)
 
